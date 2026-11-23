@@ -1,14 +1,56 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tInzlgeX4qeVphcPokGW">
-    <mxGraphModel dx="1204" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFCCE6)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6OVkI85gFC_vrnvcD-Eo-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Desktop.svg;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="80" width="135.76" x="357" y="80" as="geometry" />
+        <mxCell id="LqKc8nEZPW376J-S8fYR-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#FF0080;opacity=50;opacityGroup=1;perimeterSpacing=0;strokeWidth=7;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;Macbook - Apple M4 Series&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Hypervisor: Parallels Desktop Pro Edition&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="106" width="424" x="299" y="46" as="geometry" />
         </mxCell>
-        <mxCell id="LqKc8nEZPW376J-S8fYR-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="400" y="170" as="geometry" />
+        <mxCell id="LqKc8nEZPW376J-S8fYR-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Host Machine - Physical Computer&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="36" width="419" x="299" y="44" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-6" parent="1" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" value="" vertex="1">
+          <mxGeometry height="10" width="424" x="299" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-7" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.laptop;labelPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="574" width="956.66" x="30.17" y="161" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=60;opacityGroup=1;strokeWidth=7;strokeColor=#FF0080;fillColor=light-dark(#FF0080,#FFFFFF);perimeterSpacing=10;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="378" width="651" x="184" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-11" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/networking/ExpressRoute_Circuits.svg;points=[[0.504,0,0],[0.5,0.908,0],[0.003,0.855,0],[0.998,0.855,0],[0.597,0.039,0],[0.95,0.97,0],[0.05,0.97,0],[0.41,0.039,0]];labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="49" width="53.59" x="484.2" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#FFFFFF, #ff40ff);fillColor=light-dark(#FFFFFF,#FF90F3);align=center;verticalAlign=middle;rounded=0;perimeterSpacing=18;strokeWidth=4;opacity=50;opacityGroup=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Parallels Host-Only Network&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Isolated Virtual Subnet: 10.37.129.0/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53" width="251.25" x="385.37" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,transparent);dashed=1;strokeColor=light-dark(#000000,#FF0080);" value="" vertex="1">
+          <mxGeometry height="307" width="616" x="203" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;fillColor=#d80073;fontColor=#ffffff;strokeColor=light-dark(#A50040,#FF0080);" value="" vertex="1">
+          <mxGeometry height="69" width="257.63" x="386.43" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ICMP Ping Connectivity" vertex="1">
+          <mxGeometry height="30" width="138.5" x="446" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-24" parent="1" style="image;sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;points=[[0.497,0,0],[0.497,1,0],[0,0.397,0],[1,0.397,0],[0.982,0.017,0],[0.825,1,0],[0.17,1,0],[0.02,0.011,0]];labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100.27" width="108.99" x="670" y="347.73" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-25" parent="1" style="image;sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;points=[[0.497,0,0],[0.51,1,0],[0,0.402,0],[1,0.404,0],[0.982,0.017,0],[0.84,1,0],[0.18,1,0],[0.018,0.014,0]];labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100.27" width="108.98" x="251" y="347.73" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#FFFFFF,#FF0080);fillColor=#6a00ff;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#FFFFFF,#FFFFFF);opacity=50;opacityGroup=1;strokeWidth=2;" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;Kali Linux VM&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;IP: 10.37.129.4&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Subnet Mask: 255.255.255.0&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="131.39" x="239.79999999999998" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#FFFFFF,#FF0080);fillColor=#6a00ff;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#FFFFFF,#FFFFFF);opacity=50;opacityGroup=1;strokeWidth=2;" value="&lt;div&gt;&lt;span style=&quot;caret-color: rgb(222, 222, 222); font-size: 15px;&quot;&gt;Windows 11 VM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(222, 222, 222); font-size: 15px;&quot;&gt;IP: 10.37.129.3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(222, 222, 222); font-size: 15px;&quot;&gt;Subnet Mask: 255.255.255.0&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="128.01" x="660.49" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,transparent);dashed=1;strokeColor=light-dark(#000000,#FF0080);" value="" vertex="1">
+          <mxGeometry height="220" width="148" x="231" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,transparent);dashed=1;strokeColor=light-dark(#000000,#FF0080);" value="" vertex="1">
+          <mxGeometry height="220" width="148" x="650.49" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
