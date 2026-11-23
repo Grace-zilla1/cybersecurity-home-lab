@@ -7,6 +7,9 @@
         <mxCell id="6OVkI85gFC_vrnvcD-Eo-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Desktop.svg;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="80" width="135.76" x="357" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="LqKc8nEZPW376J-S8fYR-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
