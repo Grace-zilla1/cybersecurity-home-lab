@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tInzlgeX4qeVphcPokGW">
+    <mxGraphModel dx="1204" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6OVkI85gFC_vrnvcD-Eo-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/devices/1/Desktop.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="80" width="135.76" x="357" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
